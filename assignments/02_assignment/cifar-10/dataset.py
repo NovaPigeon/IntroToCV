@@ -134,7 +134,7 @@ if __name__ == '__main__':
 
     # --------------TODO------------------
     # Copy the third kind of your augmentation code here
-    trans3=transforms.transforms.ColorJitter(brightness=0.1,contrast=0.1,saturation=0.1,hue=0.1)
+    trans3=transforms.ColorJitter(brightness=0.1,contrast=0.1,saturation=0.1,hue=0.1)
     # --------------TODO------------------
     aug3 = trans3(img)
     aug3.save(f'../results/Lenna_aug3.png')
