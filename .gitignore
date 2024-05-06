@@ -164,3 +164,5 @@ cython_debug/
 pack.py
 *.zip
 reference/repo/
+compress.py
+
