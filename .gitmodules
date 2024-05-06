@@ -1,3 +1,6 @@
 [submodule "assignments/03_assignment/assignments/03_assignment/mesh_pc/earthmover"]
 	path = assignments/03_assignment/assignments/03_assignment/mesh_pc/earthmover
 	url = https://github.com/j2kun/earthmover.git
+[submodule "assignments/03_assignment/mesh_pc/earthmover"]
+	path = assignments/03_assignment/mesh_pc/earthmover
+	url = https://github.com/j2kun/earthmover.git
